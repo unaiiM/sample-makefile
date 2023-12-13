@@ -1,6 +1,6 @@
 # Sample Makefile
 
-Sample make file for starting a C project fast.
+Sample Makefile for starting a C project fast.
 
 Folders:
 * Include --> for header files.
